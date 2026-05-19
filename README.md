@@ -37,10 +37,6 @@ pip install psycopg2-binary  # For PostgreSQL (optional)
 # Or install all at once:
 pip install -r requirements.txt
 
-# No installation needed! Just clone and open
-git clone https://github.com/Wilsonthoma/Event-Hub.git
-cd Event-Hub
-
 # View any HTML file directly in browser
 open events/templates/index.html
 
